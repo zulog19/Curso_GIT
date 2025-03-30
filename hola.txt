@@ -9,3 +9,5 @@ Estoy realizando un curso
 El año es 2025.
 
 Comenzando con GIT.
+
+GIT show agregado,
