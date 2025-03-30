@@ -12,4 +12,4 @@ Comenzando con GIT.
 
 GIT show agregado.
 
-Esto es un commit multilinea.
+Esto es un commit multilinea posta.
